@@ -1,5 +1,5 @@
 # Shooting-Game
-A shooting game built by Pygame library in python
+A shooting game built by Pygame library in Python
 ## How it works
 On executing the Game.py it will show a startup screen./
 By clicking on start button the game starts and you can exit game window by clicking on Exit button./
